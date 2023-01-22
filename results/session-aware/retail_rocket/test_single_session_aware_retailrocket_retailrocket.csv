@@ -1,0 +1,2 @@
+Metrics;MAP@10: ;MAP@20: ;HitRate@10: ;HitRate@20: ;MRR@10: ;MRR@20: ;Coverage@20: ;Popularity@20: ;
+gru4rec-loss=top1-max-final_act=linear-batch_size=100-dropout_p_hidden=0.2-learning_rate=0.04-momentum=0.0-constrained_embedding=True;0.324823553556767;0.3338123160759437;0.49309347895920336;0.5513652425313202;0.3401208195024447;0.34417197924047865;0.8591584529944464;0.023704656603323007;

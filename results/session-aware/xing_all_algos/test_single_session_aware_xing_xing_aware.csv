@@ -1,0 +1,2 @@
+Metrics;MAP@10: ;MAP@20: ;HitRate@10: ;HitRate@20: ;MRR@10: ;MRR@20: ;Coverage@20: ;Popularity@20: ;,,,,,,,,
+sknn-k=100-sample_size=1000-similarity=cosine,0.152267145,0.15865316,0.269765777,0.313593127,0.162948838,0.166031254,0.229603044,0.028973432

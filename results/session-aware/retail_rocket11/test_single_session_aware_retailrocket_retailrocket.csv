@@ -1,0 +1,2 @@
+Metrics;HitRate@20: ;MRR@20: ;Coverage@20: ;Popularity@20: ;Training time:;Testing time seconds:;Testing time cpu:;
+sgnn-hidden_size=100-out_size=100-step=1-nonhybrid=True-batch_size=100-epoch_n=1-batch_predict=True-lr=0.006-l2=3e-05-lr_dc=0.36666667-lr_dc_step=3;0.45615162222936073;0.2750597964882466;0.39105418522039326;0.05429385121508663;1931.8870952129364;0.019455237025378987;0.019455237025378987;
